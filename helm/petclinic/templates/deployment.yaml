@@ -3,7 +3,7 @@
 apiVersion: extensions/v1
 kind: Deployment
 metadata:
-  name: javaapp-deployment
+  name: petclinic-deployment
 spec:
   replicas: 1
   strategy:
