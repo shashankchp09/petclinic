@@ -1,6 +1,6 @@
 #Deployment
 ###controllers/pb-deploy.tml
-apiVersion: extensions/v1beta1
+apiVersion: extensions/v1
 kind: Deployment
 metadata:
   name: javaapp-deployment
